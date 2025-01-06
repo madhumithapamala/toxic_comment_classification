@@ -9,17 +9,17 @@ The project involves the following steps:
 - Remove newline characters, punctuation, and numeric characters.
 - Handle special characters.
 - Remove extra spaces.
-Data Preprocessing:
-Tokenize the text.
-Remove stop words.
-Perform lemmatization.
-Exploratory Data Analysis (EDA):
-Analyze the distribution of toxicity labels.
-Visualize comment lengths for toxic and non-toxic comments.
-Examine the correlation between different toxicity labels.
-Perform Kernel Density Estimation (KDE) for numerical features.
-Generate word clouds for toxic and non-toxic comments.
-Feature Extraction:
+3. Data Preprocessing:
+- Tokenize the text.
+- Remove stop words.
+- Perform lemmatization.
+4. Exploratory Data Analysis (EDA):
+- Analyze the distribution of toxicity labels.
+- Visualize comment lengths for toxic and non-toxic comments.
+- Examine the correlation between different toxicity labels.
+- Perform Kernel Density Estimation (KDE) for numerical features.
+- Generate word clouds for toxic and non-toxic comments.
+5. Feature Extraction:
 Use TF-IDF vectorization to convert text data into numerical features.
 Model Training:
 Train multiple machine-learning models, including Logistic Regression, Random Forest, Support Vector Machine (SVM), Naive Bayes, and Gradient Boosting.
