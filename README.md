@@ -3,12 +3,12 @@ This project focuses on identifying and analyzing toxic comments in social media
 # Project Overview
 The project involves the following steps:
 1. Data Collection:
-Utilize two datasets: one for training and one for testing.
-Data Cleaning:
-Convert text to lowercase.
-Remove newline characters, punctuation, and numeric characters.
-Handle special characters.
-Remove extra spaces.
+- Utilize two datasets: one for training and one for testing.
+2. Data Cleaning:
+- Convert text to lowercase.
+- Remove newline characters, punctuation, and numeric characters.
+- Handle special characters.
+- Remove extra spaces.
 Data Preprocessing:
 Tokenize the text.
 Remove stop words.
