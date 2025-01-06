@@ -41,6 +41,7 @@ The project utilizes the following tools and technologies:
 - Programming Language: Python
 - Libraries: pandas, NumPy, scikit-learn, nltk, matplotlib, seaborn, wordcloud, re
 # Repository Structure
+- Data: Data is in Zip format, download and extract raw data and preprocessed data.
 - phase2.py: This file contains the Python code for the machine learning and data analysis part of the project.
 - dic_code (2).py: This file contains the Python code for the data collection, cleaning, preprocessing, and exploratory data analysis (EDA) part of the project.
 - README.md: This file provides a description of the project.
